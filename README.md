@@ -2,11 +2,11 @@
 
 Una aplicación que encripta textos, así se podrá intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
-<a>Las "llaves" de encriptación que utilizaremos son las siguientes: La letra "e" es convertida para "enter"</a>
-<a>La letra "i" es convertida para "imes"</a>
-<a>La letra "a" es convertida para "ai"</a>
-<a>La letra "o" es convertida para "ober"</a> 
-<a>La letra "u" es convertida para "ufat"</a>
+<h3>Las "llaves" de encriptación que utilizaremos son las siguientes: La letra "e" es convertida para "enter"</a>
+<h3>La letra "i" es convertida para "imes"</h3>
+<h3>La letra "a" es convertida para "ai"</h3>
+<h3>La letra "o" es convertida para "ober"</h3>
+<h3>La letra "u" es convertida para "ufat"</h3>
 
 **Requisitos:**
 
@@ -14,4 +14,4 @@ Debe funcionar solo con letras minúsculas No deben ser utilizados letras con ac
 
 La página tiene campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre las dos opciones. El resultado debe ser mostrado en la pantalla.
 
-<a>Extras: Se coloca un botón que copie el texto encriptado/desencriptado para la sección de transferencia, es decir tiene la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.</a>
+**Extras**Se coloca un botón que copie el texto encriptado/desencriptado para la sección de transferencia, es decir tiene la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
