@@ -2,11 +2,11 @@
 
 Una aplicación que encripta textos, así se podrá intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
-<h3>Las "llaves" de encriptación que utilizaremos son las siguientes: La letra "e" es convertida para "enter"</a>
-<h3>La letra "i" es convertida para "imes"</h3>
-<h3>La letra "a" es convertida para "ai"</h3>
-<h3>La letra "o" es convertida para "ober"</h3>
-<h3>La letra "u" es convertida para "ufat"</h3>
+<h5>Las "llaves" de encriptación que utilizaremos son las siguientes: La letra "e" es convertida para "enter"</a>
+<h5>La letra "i" es convertida para "imes"</h5>
+<h5>La letra "a" es convertida para "ai"</h5>
+<h5>La letra "o" es convertida para "ober"</h5>
+<h5>La letra "u" es convertida para "ufat"</h5>
 
 **Requisitos:**
 
