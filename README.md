@@ -16,3 +16,5 @@ La página tiene campos para inserción del texto que será encriptado o desencr
 
 <h5>Extras</h5>
 Se coloca un botón que copie el texto encriptado/desencriptado para la sección de transferencia, es decir tiene la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+<a href="https://yused23.github.io/Encriptador/">Visualiza mi Encriptador</a> 
